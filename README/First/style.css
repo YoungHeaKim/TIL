@@ -1,0 +1,160 @@
+/* 2017.07.26 css for 0726.html */
+/* wrap 시작 */
+*{
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  list-style: none;
+  box-sizing: border-box;
+}
+.wrap{
+  margin: 5% 10% 5%;
+}
+.clearfix::after{
+  content: "";
+  display: block;
+  clear: both;
+}
+/* wrap 끝 */
+/* Header 시작 */
+/* .header{
+  background-color: skyblue;
+} */
+.headerLogo{
+  display: inline-block;
+  margin: 0 10px;
+}
+.navItem, .logItem{
+  display: inline-block;
+}
+.logItem{
+  padding: 9px 15px;
+  border: 1px solid brown;
+}
+.login{
+  float: right;
+}
+.nav, .headerLogo{
+  float: left;
+}
+.navItem{
+  margin: 10px;
+}
+/* header 끝 */
+/* body부분 시작 */
+/* 첫번째 단락 시작 */
+.mainOne{
+  /* background-color: burlywood; */
+  position: relative;
+  top: 0;
+}
+.sectionOne{
+  position: absolute;
+  top: 50%;
+  left: 0;
+  transform: translateY(-50%);
+  width: 45%;
+}
+.oneImg{
+  float: right;
+  width: 15%;
+  margin: 50px 6% 100px 0;
+}
+.oneHead{
+  font-size: 56px;
+  margin: 0 0 10px;
+}
+.onePar{
+  margin: 10px 0;
+  line-height: 20px;
+}
+.button{
+  font-size: 0;
+}
+.buttonOne{
+  margin: 0 0 10px;
+  padding: 15px 70px 15px 15px;
+}
+.buttonTwo{
+  padding: 15px 70px;
+  background-color: #03a67b;
+  /* padding이 적용안되는 경우 border를 지정해주거나 background를 지정해 주어야 한다. */
+}
+/* 첫번째 단락 끝 */
+/* 두번째 단락 시작 */
+.mainBox{
+  text-align: center;
+  margin: 100px 0 100px;
+}
+.topHead{
+  font-size: 38px;
+  margin: 0 0 10px;
+}
+.topPar{
+  width: 50%;
+  transform: translateX(+50%);
+  line-height: 20px;
+}
+
+.boxLeft{
+  float: left;
+  width: 32%;
+  margin: 1% 0;
+}
+.boxMid, .boxRight{
+  float: right;
+  width: 32%;
+  margin: 1% 0 0 1%;
+}
+/* 두번쨰 단락 끝 */
+/* 세번째 단락 시작 */
+.mainThree{
+    text-align: center;
+}
+.threeHead{
+  margin-top: 220px;
+}
+.threePic{
+  margin: 20px 0 100px;
+}
+/* 세번째 단락 끝 */
+/* 네번째 단락 시작 */
+.mainFour{
+  text-align: center;
+  width: 50%;
+  transform: translateX(+50%);
+}
+.fourHead{
+  font-size: 40px;
+  margin: 100px 0 25px;
+}
+.fourButton{
+  background-color: #03a67b;
+  padding: 20px 70px;
+  margin: 50px 18px 100px; 
+}
+.fiveButton{
+  background-color: whitesmoke;
+  padding: 20px 70px;
+  margin: 50px 18px 100px;
+}
+/* 네번째 단락 끝 */
+h4{
+  margin: 10px 0 18px;
+}
+/* footer start */
+/* .footer{
+  height: 150px;
+  background-color: skyblue;
+  margin-top: 100px;
+  position: relative;
+}
+.footItem{
+  display: inline-block;
+  margin: 0 10px;
+}
+.footList{
+  position: absolute;
+  top: 50%; left: 50%;
+  transform: translate(-50% -50%)
+} */
