@@ -27,12 +27,12 @@ Today I Learned
 ---
 ### Practice
 ---
-1. [Practice (Make a Hompage)(2017/07/26)](./README/First/)
+1. [Practice (Make a Hompage)(2017/07/26)](./README/First/0726.html)
 
 ---
 ### HomeWork
 ---
-1. [Make a HomePage(2017/07/25)](./README/HOMEWORK/0725.html)
-2. [Noneresponsive(2017/07/27)](./README/HOMEWORK/Noneresponsive.html)
-3. [Responsive(2017/07/27)](./README/HOMEWORK/responsive.html)
-3. [Grid Example(2017/07/27)](./README/HOMEWORK/0727.html)
+1. [Make a HomePage(2017/07/25)](./README/HomeWork/0725.html)
+2. [Noneresponsive(2017/07/27)](./README/HomeWork/Noneresponsive.html)
+3. [Responsive(2017/07/27)](./README/HomeWork/responsive.html)
+3. [Grid Example(2017/07/27)](./README/HomeWork/0727.html)
