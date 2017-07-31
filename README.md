@@ -28,7 +28,13 @@ Today I Learned
 ### JAVASCRIPT
 ---
 1. [JavaScript (Coding ~ Data type & Variable)(2017/07/28)](./README/0728.md)
-
+2. [JavaScript (Data type & Variable ~ Object)(2017/07/31)](./README/0731.md)
+  - [JavaScript(for & while practice)](./README/JavaScript/evenNum.js)
+  - [JavaScript(for & while practice)](./README/JavaScript/evenNumString.js)
+  - [JavaScript(for & while practice)](./README/JavaScript/evenNumWhile.js)
+  - [JavaScript(for & while practice)](./README/JavaScript/oddNum.js)
+  - [JavaScript(for & while practice)](./README/JavaScript/evenNum.js)
+  - [JavaScript(for & while practice)](./README/JavaScript/triangle.js)
 ---
 ### Computer Science and Engineering
 ---
@@ -43,6 +49,6 @@ Today I Learned
 ### HomeWork
 ---
 1. [Make a HomePage(2017/07/25)](./README/HomeWork/0725.html)
-2. [Noneresponsive(2017/07/27)](./README/HomeWork/Noneresponsive.html)
-3. [Responsive(2017/07/27)](./README/HomeWork/responsive.html)
+2. [Noneresponsive(2017/07/27)](./README/HomeWork/Noneresposive.html)
+3. [Responsive(2017/07/27)](./README/HomeWork/Responsive.html)
 3. [Grid Example(2017/07/27)](./README/HomeWork/0727.html)
