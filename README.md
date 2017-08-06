@@ -35,10 +35,15 @@ Today I Learned
   - [JavaScript(for & while practice)](./README/JavaScript/oddNum.js)
   - [JavaScript(for & while practice)](./README/JavaScript/evenNum.js)
   - [JavaScript(for & while practice)](./README/JavaScript/triangle.js)
+  - [JavaScript(for & while practice)](./README/JavaScript/tree.js)
+3. [JavaScript(Object ~ Prototype)](./README/0801.md)
+4. [JavaScript(Prototype ~ This)](./README/0803.md)
+
 ---
 ### Computer Science and Engineering
 ---
 1. [Computer (2017/07/21)](./README/0721.md)
+2. [Software Engineering (2017/08/04)](./README/0804.md)
 
 ---
 ### Practice
