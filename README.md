@@ -37,7 +37,8 @@ Today I Learned
   - [JavaScript(for & while practice)](./README/JavaScript/triangle.js)
   - [JavaScript(for & while practice)](./README/JavaScript/tree.js)
 3. [JavaScript(Object ~ Prototype)](./README/0801.md)
-4. [JavaScript(Prototype ~ This)](./README/0803.md)
+4. [JavaScript (objeect)](./README/JSobject.md)
+5. [JavaScript(Prototype ~ This)](./README/0803.md)
 
 ---
 ### Computer Science and Engineering
