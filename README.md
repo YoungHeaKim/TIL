@@ -43,7 +43,7 @@ Today I Learned
 3. [JavaScript(Object ~ Prototype)(2017/08/01)](./README/0801.md)
 4. [JavaScript (objeect)(2017/08/03)](./README/JSobject.md)
 5. [JavaScript(Prototype ~ This)(2017/08/03)](./README/0803.md)
-6. [JavaScript(Execution Context ~ Closure)(2017/08/07)](./README/0807(JS).md)
+6. [JavaScript(Execution Context ~ Closure)(2017/08/07)](./README/0807JS.md)
 
 ---
 ### Computer Science and Engineering
