@@ -44,6 +44,7 @@ Today I Learned
 4. [JavaScript (objeect)(2017/08/03)](./README/JSobject.md)
 5. [JavaScript(Prototype ~ This)(2017/08/03)](./README/0803.md)
 6. [JavaScript(Execution Context ~ Closure)(2017/08/07)](./README/0807JS.md)
+7. [JavaScript(Object-Oriented Programming ~ Math)(2017/08/08)](./README/0808.md)
 
 ---
 ### Computer Science and Engineering
