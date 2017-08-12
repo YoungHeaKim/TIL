@@ -45,12 +45,14 @@ Today I Learned
 5. [JavaScript(Prototype ~ This)(2017/08/03)](./README/0803.md)
 6. [JavaScript(Execution Context ~ Closure)(2017/08/07)](./README/0807JS.md)
 7. [JavaScript(Object-Oriented Programming ~ Math)(2017/08/08)](./README/0808.md)
+8. [JavaScript(Date ~ Array)(2017/08/09)](./README/0809.md)
 
 ---
 ### Computer Science and Engineering
 ---
 1. [Computer (2017/07/21)](./README/0721.md)
 2. [Software Engineering (2017/08/04)](./README/0804.md)
+3. [Network Computing (2017/08/11)](./README/0811.md)
 
 ---
 ### Practice
