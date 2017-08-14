@@ -33,19 +33,13 @@ Today I Learned
 ---
 1. [JavaScript (Coding ~ Data type & Variable)(2017/07/28)](./README/0728.md)
 2. [JavaScript (Data type & Variable ~ Object)(2017/07/31)](./README/0731.md)
-  - [JavaScript(for & while practice)](./README/JavaScript/evenNum.js)
-  - [JavaScript(for & while practice)](./README/JavaScript/evenNumString.js)
-  - [JavaScript(for & while practice)](./README/JavaScript/evenNumWhile.js)
-  - [JavaScript(for & while practice)](./README/JavaScript/oddNum.js)
-  - [JavaScript(for & while practice)](./README/JavaScript/evenNum.js)
-  - [JavaScript(for & while practice)](./README/JavaScript/triangle.js)
-  - [JavaScript(for & while practice)](./README/JavaScript/tree.js)
 3. [JavaScript(Object ~ Prototype)(2017/08/01)](./README/0801.md)
 4. [JavaScript (objeect)(2017/08/03)](./README/JSobject.md)
 5. [JavaScript(Prototype ~ This)(2017/08/03)](./README/0803.md)
 6. [JavaScript(Execution Context ~ Closure)(2017/08/07)](./README/0807JS.md)
 7. [JavaScript(Object-Oriented Programming ~ Math)(2017/08/08)](./README/0808.md)
 8. [JavaScript(Date ~ Array)(2017/08/09)](./README/0809.md)
+9. [JavaScript(DOM ~ Event)(2017/08/14)](./README/0814.md)
 
 ---
 ### Computer Science and Engineering
@@ -57,7 +51,17 @@ Today I Learned
 ---
 ### Practice
 ---
-1. [Practice (Make a Hompage)(2017/07/26)](./README/First/0726.html)
+- [Practice (Make a Hompage)(2017/07/26)](./README/First/0726.html)
+- [JavaScript(for & while practice)](./README/JavaScript/evenNum.js)
+- [JavaScript(for & while practice)](./README/JavaScript/evenNumString.js)
+- [JavaScript(for & while practice)](./README/JavaScript/evenNumWhile.js)
+- [JavaScript(for & while practice)](./README/JavaScript/oddNum.js)
+- [JavaScript(for & while practice)](./README/JavaScript/evenNum.js)
+- [JavaScript(for & while practice)](./README/JavaScript/triangle.js)
+- [JavaScript(for & while practice)](./README/JavaScript/tree.js)
+- [JavaScript(string)](./README/JavaScript/string.js)
+- [JavaScript(day)](./README/JavaScript/day.js)
+- [JavaScript(checkPalindrom)](./README/JavaScript/checkPalindrom.js)
 
 ---
 ### HomeWork
