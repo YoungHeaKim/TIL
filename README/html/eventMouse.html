@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>MouseEvent</title>
+  <!-- css로 박스를 만들어준다. -->
+  <style>
+    div { 
+      width: 100px;
+      height: 100px;
+      background-color: red;
+    }
+  </style>
+</head>
+<body>
+  <div id="box"></div>
+  <!-- 위에서 div를 통해 공간을 만들어준다. -->
+  <script>
+    // box라는 변수 안에 getElementById('')를 사용하여 해당 Id의 값을 불러와서 넣어준다.
+    var box = document.getElementById('box');
+    
+    // 마우스가 해당 박스안에 올라갔을 경우 배경색을 파랑색으로 바꿔준다.  
+    box.addEventListener('mouseover', function (e) {
+      event.target.style.background = "blue";
+      console.log(box);
+    });
+
+    // 마우스가 해당 박스안에 올라갔다가 내려갔을 경우 배경색을 원래색인 빨강색으로 바꿔준다.  
+    box.addEventListener('mouseout', function (e) {
+      event.target.style.background = "red";
+      console.log(box);
+    });
+  </script>
+</body>
+</html> 
