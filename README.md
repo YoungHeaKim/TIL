@@ -3,16 +3,13 @@
 Today I Learned
 
 ---
-
-## The List
----
-### HTML
+## HTML
 ---
 1. [HTML (Element ~ Meta tag)(2017/07/17)](./README/0717.md)  
 2. [HTML (BodyTag ~ Struture)(2017/07/18)](./README/0718.md)
 
 ---
-### CSS
+## CSS
 --- 
 1. [CSS (Selector)(2017/07/19)](./README/0719.md)
 2. [CSS (Units ~ Font)(2017/07/20)](./README/0720.md)
@@ -20,16 +17,7 @@ Today I Learned
 4. [CSS (Web font ~ Web Design)(2017/07/25)](./README/0725.md)
 
 ---
-### Bootstrap
----
-[Bootstrap(2017/07/27)](./README/0727.md)
-
-### Sass
----
-[Sass(2017/08/07)](./README/0807sass.md)
-
----
-### JAVASCRIPT
+## JAVASCRIPT
 ---
 1. [JavaScript (Coding ~ Data type & Variable)(2017/07/28)](./README/0728.md)
 2. [JavaScript (Data type & Variable ~ Object)(2017/07/31)](./README/0731.md)
@@ -43,39 +31,59 @@ Today I Learned
 10. [JavaScript (Event)(2017/08/16)](./README/0816JS.md)
 
 ---
-### jQuery
+## Bootstrap
+---
+[Bootstrap(2017/07/27)](./README/0727.md)
+
+## Sass
+---
+[Sass(2017/08/07)](./README/0807sass.md)
+
+---
+## jQuery
 ---
 1. [jQuery (Basic ~ Ajax & JSON)(2017/08/16)](./README/0816jQuery.md)
 
 ---
-### Computer Science and Engineering
+## Computer Science and Engineering
 ---
 1. [Computer (2017/07/21)](./README/0721.md)
 2. [Software Engineering (2017/08/04)](./README/0804.md)
 3. [Network Computing (2017/08/11)](./README/0811.md)
 
 ---
-### Practice
+## Practice & Homework
 ---
-- [Practice (Make a Hompage)(2017/07/26)](./README/First/0726.html)
-- [JavaScript(for & while practice)](./README/JavaScript/evenNum.js)
-- [JavaScript(for & while practice)](./README/JavaScript/evenNumString.js)
-- [JavaScript(for & while practice)](./README/JavaScript/evenNumWhile.js)
-- [JavaScript(for & while practice)](./README/JavaScript/oddNum.js)
-- [JavaScript(for & while practice)](./README/JavaScript/evenNum.js)
-- [JavaScript(for & while practice)](./README/JavaScript/triangle.js)
-- [JavaScript(for & while practice)](./README/JavaScript/tree.js)
-- [JavaScript(string)(2017/08/09)](./README/JavaScript/string.js)
-- [JavaScript(day)(2017/08/09)](./README/JavaScript/day.js)
-- [JavaScript(checkPalindrom)(2017/08/14)](./README/JavaScript/checkPalindrom.js)
-- [JavaScript(DAUM)(2017/08/15)](./README/JavaScript/daum.js)
-- [JavaScript(EvenOrOdd)(2017/08/16)](./README/JavaScript/EvenOrOdd.js)
-- [JavaScript(searchEight)(2017/08/16)](./README/JavaScript/searchEight.js)
+### 2017/07/25
+- [Make a HomePage](./README/HomeWork/0725.html)
+### 2017/07/26
+- [Practice (Make a Hompage)](./README/First/0726.html)
+### 2017/07/27
+- [Noneresponsive](./README/HomeWork/Noneresposive.html)
+- [Responsive](./README/HomeWork/Responsive.html)
+- [Grid Example](./README/HomeWork/0727.html)
+### 2017/07/31
+- [JavaScript(evenNum)](./README/JavaScript/evenNum.js)
+- [JavaScript(evenNumString)](./README/JavaScript/evenNumString.js)
+- [JavaScript(evenNumWhile)](./README/JavaScript/evenNumWhile.js)
+- [JavaScript(oddNum)](./README/JavaScript/oddNum.js)
+- [JavaScript(evenNum)](./README/JavaScript/evenNum.js)
+- [JavaScript(triangle)](./README/JavaScript/triangle.js)
+- [JavaScript(tree)](./README/JavaScript/tree.js)
+### 2017/08/09
+- [JavaScript(string)](./README/JavaScript/string.js)
+- [JavaScript(day)](./README/JavaScript/day.js)
+### 2017/08/14
+- [JavaScript(checkPalindrom)](./README/JavaScript/checkPalindrom.js)
+### 2017/08/15
+- [JavaScript(DAUM)](./README/JavaScript/daum.js)
+### 2017/08/16
+- [JavaScript(EvenOrOdd)](./README/JavaScript/EvenOrOdd.js)
+- [JavaScript(searchEight)](./README/JavaScript/searchEight.js)
+- [JavaScript(Event)](./README/HTML/eventMouse.html)
 
+### 공부를 하며 몰랐던 것
 ---
-### HomeWork
----
-1. [Make a HomePage(2017/07/25)](./README/HomeWork/0725.html)
-2. [Noneresponsive(2017/07/27)](./README/HomeWork/Noneresposive.html)
-3. [Responsive(2017/07/27)](./README/HomeWork/Responsive.html)
-3. [Grid Example(2017/07/27)](./README/HomeWork/0727.html)
+1. for문에서 count하는 법....
+- [해결방안 count문을 실제로 만들어서 확인해봄...](./README/JavaScript/count.js)
+
