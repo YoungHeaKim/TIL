@@ -74,12 +74,12 @@ Today I Learned
 - [JavaScript(string)](./README/JavaScript/string.js)
 - [JavaScript(day)](./README/JavaScript/day.js)
 ### 2017/08/14
-- [JavaScript(checkPalindrom)](./README/JavaScript/checkPalindrom.js)
+- [JavaScript(checkPalindrom)(문자열 다루기)](./README/JavaScript/checkPalindrom.js)
 ### 2017/08/15
-- [JavaScript(DAUM)](./README/JavaScript/daum.js)
+- [JavaScript(DAUM)(최단 거리 1차원 점의 쌍 구하기)](./README/JavaScript/daum.js)
 ### 2017/08/16
-- [JavaScript(EvenOrOdd)](./README/JavaScript/EvenOrOdd.js)
-- [JavaScript(searchEight)](./README/JavaScript/searchEight.js)
+- [JavaScript(EvenOrOdd)(짝수와 홀수)](./README/JavaScript/EvenOrOdd.js)
+- [JavaScript(searchEight)(1 ~ 10,000의 숫자 중 8이 등장하는 횟수 구하기)](./README/JavaScript/searchEight.js)
 - [JavaScript(Event)](./README/HTML/eventMouse.html)
 
 ### 공부를 하며 몰랐던 것
