@@ -82,8 +82,11 @@ Today I Learned
 - [JavaScript(searchEight)(1 ~ 10,000의 숫자 중 8이 등장하는 횟수 구하기)](./README/JavaScript/searchEight.js)
 - [JavaScript(Event)](./README/HTML/eventMouse.html)
 
+---
 ### 공부를 하며 몰랐던 것
 ---
 1. for문에서 count하는 법....
 - [해결방안 count문을 실제로 만들어서 확인해봄...](./README/JavaScript/count.js)
 
+2. isNaN() 사용법을 잘 몰랐다.
+- 문제에서 문자열을 숫자열로 바꿨을 때 NaN이라는 문제가 발생하는데 이때 isNaN()을 사용해주면 해결이 가능하다.
