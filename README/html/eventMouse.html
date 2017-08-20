@@ -17,20 +17,35 @@
 <body>
   <div id="box"></div>
   <!-- 위에서 div를 통해 공간을 만들어준다. -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
   <script>
-    // box라는 변수 안에 getElementById('')를 사용하여 해당 Id의 값을 불러와서 넣어준다.
-    var box = document.getElementById('box');
+    // JavaScript Event
+    // // box라는 변수 안에 getElementById('')를 사용하여 해당 Id의 값을 불러와서 넣어준다.
+    // var box = document.getElementById('box');
     
-    // 마우스가 해당 박스안에 올라갔을 경우 배경색을 파랑색으로 바꿔준다.  
-    box.addEventListener('mouseover', function (e) {
-      event.target.style.background = "blue";
-      console.log(box);
+    // // 마우스가 해당 박스안에 올라갔을 경우 배경색을 파랑색으로 바꿔준다.  
+    // box.addEventListener('mouseover', function (e) {
+    //   event.target.style.background = "blue";
+    //   console.log(box);
+    // });
+
+    // // 마우스가 해당 박스안에 올라갔다가 내려갔을 경우 배경색을 원래색인 빨강색으로 바꿔준다.  
+    // box.addEventListener('mouseout', function (e) {
+    //   event.target.style.background = "red";
+    //   console.log(box);
+    // });
+
+    // jQuery
+    // div의 Id를 위에서 box라고 만들어 놓았다. 이를 사용해서 mouseover가 되었을 때 함수가 실행
+    $('#box').mouseover(function(){
+      // 함수는 배경색을 blue로 바꿈
+      $('#box').css('backgroundColor','blue'); 
     });
 
-    // 마우스가 해당 박스안에 올라갔다가 내려갔을 경우 배경색을 원래색인 빨강색으로 바꿔준다.  
-    box.addEventListener('mouseout', function (e) {
-      event.target.style.background = "red";
-      console.log(box);
+    // div의 Id를 위에서 box라고 만들어 놓았다. 이를 사용해서 mouseoutdl 되었을 때 함수가 실행
+    $('#box').mouseout(function(){
+      // 함수는 배경색을 red로 바꿈
+      $('#box').css('backgroundColor','red');
     });
   </script>
 </body>
