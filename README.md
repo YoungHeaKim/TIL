@@ -81,11 +81,15 @@ Today I Learned
 ### 2017/08/16
 - [JavaScript(EvenOrOdd)(짝수와 홀수)](./README/JavaScript/EvenOrOdd.js)
 - [JavaScript(searchEight)(1 ~ 10,000의 숫자 중 8이 등장하는 횟수 구하기)](./README/JavaScript/searchEight.js)
-- [JavaScript(Event)](./README/HTML/eventMouse.html)
+- [JavaScript(Event) & jQuery](./README/HTML/eventMouse.html)
 ### 2017/08/17
 - [JavaScript(alphaString)(문자열 다루기)](./README/JavaScript/alphaString.js)
 ### 2017/08/18
 - [JavaScript(strToInt)(문자열을 숫자로 바꾸기)](./README/JavaScript/strToInt.js)
+### 2017/08/20
+- [JavaScript(waterMelon)(수박출력하기)](./README/JavaScript/waterMelon.js)
+- [JavaScript(hideNumbers)(핸드폰번호 가리기)](./README/JavaScript/hideNumbers.js)
+- [JavaScript(nextSqaure)(정수제곱근 판별하기)](./README/JavaScript/nextSqaure.js)
 
 ---
 ### 공부를 하며 몰랐던 것
