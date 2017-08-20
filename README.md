@@ -90,6 +90,7 @@ Today I Learned
 - [JavaScript(waterMelon)(수박출력하기)](./README/JavaScript/waterMelon.js)
 - [JavaScript(hideNumbers)(핸드폰번호 가리기)](./README/JavaScript/hideNumbers.js)
 - [JavaScript(nextSqaure)(정수제곱근 판별하기)](./README/JavaScript/nextSqaure.js)
+- [JavaScript(toWeirdCase)(이상한 문자만들기)](./README/JavaScript/toWeirdCase.js)
 
 ---
 ### 공부를 하며 몰랐던 것
