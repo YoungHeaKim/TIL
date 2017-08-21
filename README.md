@@ -11,33 +11,38 @@ Today I Learned
 ---
 ## CSS
 --- 
-1. [CSS (Selector)(2017/07/19)](./README/0719.md)
-2. [CSS (Units ~ Font)(2017/07/20)](./README/0720.md)
-3. [CSS (Position ~ Effect)(2017/07/24)](./README/0724.md)
-4. [CSS (Web font ~ Web Design)(2017/07/25)](./README/0725.md)
+1. [Selector (2017/07/19)](./README/0719.md)
+2. [Units ~ Font (2017/07/20)](./README/0720.md)
+3. [Position ~ Effect (2017/07/24)](./README/0724.md)
+4. [Web font ~ Web Design (2017/07/25)](./README/0725.md)
 
 ---
-## JAVASCRIPT
+## JavaScript
 ---
-1. [JavaScript (Coding ~ Data type & Variable)(2017/07/28)](./README/0728.md)
-2. [JavaScript (Data type & Variable ~ Object)(2017/07/31)](./README/0731.md)
-3. [JavaScript (Object ~ Prototype)(2017/08/01)](./README/0801.md)
-4. [JavaScript (objeect)(2017/08/03)](./README/JSobject.md)
-5. [JavaScript (Prototype ~ This)(2017/08/03)](./README/0803.md)
-6. [JavaScript (Execution Context ~ Closure)(2017/08/07)](./README/0807JS.md)
-7. [JavaScript (Object-Oriented Programming ~ Math)(2017/08/08)](./README/0808.md)
-8. [JavaScript (Date ~ Array)(2017/08/09)](./README/0809.md)
-9. [JavaScript (DOM ~ Event)(2017/08/14)](./README/0814.md)
-10. [JavaScript (Event)(2017/08/16)](./README/0816JS.md)
+1. [Coding ~ Data type & Variable (2017/07/28)](./README/0728.md)
+2. [Data type & Variable ~ Object (2017/07/31)](./README/0731.md)
+3. [Object ~ Prototype (2017/08/01)](./README/0801.md)
+4. [Objeect (2017/08/03)](./README/JSobject.md)
+5. [Prototype ~ This (2017/08/03)](./README/0803.md)
+6. [Execution Context ~ Closure (2017/08/07)](./README/0807JS.md)
+7. [Object-Oriented Programming ~ Math (2017/08/08)](./README/0808.md)
+8. [Date ~ Array (2017/08/09)](./README/0809.md)
+9. [DOM ~ Event (2017/08/14)](./README/0814.md)
+10. [Event (2017/08/16)](./README/0816JS.md)
+
+---
+## ECMAScript6
+---
+1. [let,const ~ Class(2017/08/21)](./README/0821.md)
 
 ---
 ## Bootstrap
 ---
-[Bootstrap(2017/07/27)](./README/0727.md)
+[Bootstrap (2017/07/27)](./README/0727.md)
 
 ## Sass
 ---
-[Sass(2017/08/07)](./README/0807sass.md)
+[Sass (2017/08/07)](./README/0807sass.md)
 
 ---
 ## jQuery
@@ -101,7 +106,7 @@ Today I Learned
 ## 공부를 하며 몰랐던 것
 ---
 1. for문에서 count하는 법....(2017/08/17)
-- [해결방안 count문을 실제로 만들어서 확인해봄...](./README/JavaScript/count.js)
+- 해결방안 [count문](./README/JavaScript/count.js)을 실제로 만들어서 확인해 보았다.
 
 2. isNaN() 사용법을 잘 몰랐다.(2017/08/17)
 - 문제에서 문자열을 숫자열로 바꿨을 때 NaN이라는 문제가 발생하는데 이때 isNaN()을 사용해주면 해결이 가능하다.
