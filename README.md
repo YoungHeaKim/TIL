@@ -88,7 +88,7 @@ Today I Learned
 ### 2017/08/16
 - [짝수와 홀수(EvenOrOdd)](./README/JavaScript/EvenOrOdd.js)
 - [1 ~ 10,000의 숫자 중 8이 등장하는 횟수 구하기(searchEight)](./README/JavaScript/searchEight.js)
-- [Event & jQuery](./README/HTML/eventMouse.html)
+- [Event & jQuery](./README/html/eventMouse.html)
 ### 2017/08/17
 - [문자열 다루기(alphaString)](./README/JavaScript/alphaString.js)
 ### 2017/08/18
@@ -101,6 +101,7 @@ Today I Learned
 ### 2017/08/21
 - [배열의 최대/최소값 구하기(getMaxValue,getMinValue)](./README/JavaScript/getMaxValue.js)
 - [약수의 합(sumDivisor)](./README/JavaScript/sumDivisor.js)
+- [DOM](./README/html/DOMHtml.html)
 
 ---
 ## 공부를 하며 몰랐던 것
