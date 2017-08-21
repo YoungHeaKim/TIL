@@ -55,6 +55,7 @@ Today I Learned
 ---
 ## Practice & Homework
 ---
+### HTML & CSS
 ### 2017/07/25
 - [Make a HomePage](./README/HomeWork/0725.html)
 ### 2017/07/26
@@ -63,37 +64,41 @@ Today I Learned
 - [Noneresponsive](./README/HomeWork/Noneresposive.html)
 - [Responsive](./README/HomeWork/Responsive.html)
 - [Grid Example](./README/HomeWork/0727.html)
+### Javscript
 ### 2017/07/31
-- [JavaScript(evenNum)](./README/JavaScript/evenNum.js)
-- [JavaScript(evenNumString)](./README/JavaScript/evenNumString.js)
-- [JavaScript(evenNumWhile)](./README/JavaScript/evenNumWhile.js)
-- [JavaScript(oddNum)](./README/JavaScript/oddNum.js)
-- [JavaScript(evenNum)](./README/JavaScript/evenNum.js)
-- [JavaScript(triangle)](./README/JavaScript/triangle.js)
-- [JavaScript(tree)](./README/JavaScript/tree.js)
+- [짝수(evenNum)](./README/JavaScript/evenNum.js)
+- [짝수번째 숫자를 문자열로 뽑기(evenNumString)](./README/JavaScript/evenNumString.js)
+- [while문을 사용한 짝수뽑기(evenNumWhile)](./README/JavaScript/evenNumWhile.js)
+- [홀수 뽑기(oddNum)](./README/JavaScript/oddNum.js)
+- [짝수 뽑기(evenNum)](./README/JavaScript/evenNum.js)
+- [직삼각형만들기(triangle)](./README/JavaScript/triangle.js)
+- [트리만들기(tree)](./README/JavaScript/tree.js)
 ### 2017/08/09
 - [JavaScript(string)](./README/JavaScript/string.js)
 - [JavaScript(day)](./README/JavaScript/day.js)
 ### 2017/08/14
-- [JavaScript(checkPalindrom)(문자 체크하기)](./README/JavaScript/checkPalindrom.js)
+- [문자 체크하기(checkPalindrom)](./README/JavaScript/checkPalindrom.js)
 ### 2017/08/15
-- [JavaScript(DAUM)(최단 거리 1차원 점의 쌍 구하기)](./README/JavaScript/daum.js)
+- [최단 거리 1차원 점의 쌍 구하기(DAUM)](./README/JavaScript/daum.js)
 ### 2017/08/16
-- [JavaScript(EvenOrOdd)(짝수와 홀수)](./README/JavaScript/EvenOrOdd.js)
-- [JavaScript(searchEight)(1 ~ 10,000의 숫자 중 8이 등장하는 횟수 구하기)](./README/JavaScript/searchEight.js)
-- [JavaScript(Event) & jQuery](./README/HTML/eventMouse.html)
+- [짝수와 홀수(EvenOrOdd)](./README/JavaScript/EvenOrOdd.js)
+- [1 ~ 10,000의 숫자 중 8이 등장하는 횟수 구하기(searchEight)](./README/JavaScript/searchEight.js)
+- [Event & jQuery](./README/HTML/eventMouse.html)
 ### 2017/08/17
-- [JavaScript(alphaString)(문자열 다루기)](./README/JavaScript/alphaString.js)
+- [문자열 다루기(alphaString)](./README/JavaScript/alphaString.js)
 ### 2017/08/18
-- [JavaScript(strToInt)(문자열을 숫자로 바꾸기)](./README/JavaScript/strToInt.js)
+- [문자열을 숫자로 바꾸기(strToInt)](./README/JavaScript/strToInt.js)
 ### 2017/08/20
-- [JavaScript(waterMelon)(수박출력하기)](./README/JavaScript/waterMelon.js)
-- [JavaScript(hideNumbers)(핸드폰번호 가리기)](./README/JavaScript/hideNumbers.js)
-- [JavaScript(nextSqaure)(정수제곱근 판별하기)](./README/JavaScript/nextSqaure.js)
-- [JavaScript(toWeirdCase)(이상한 문자만들기)](./README/JavaScript/toWeirdCase.js)
+- [수박출력하기(waterMelon)](./README/JavaScript/waterMelon.js)
+- [핸드폰번호 가리기(hideNumbers)](./README/JavaScript/hideNumbers.js)
+- [정수제곱근 판별하기(nextSqaure)](./README/JavaScript/nextSqaure.js)
+- [이상한 문자만들기(toWeirdCase)](./README/JavaScript/toWeirdCase.js)
+### 2017/08/21
+- [배열의 최대/최소값 구하기(getMaxValue,getMinValue)](./README/JavaScript/getMaxValue.js)
+- [약수의 합(sumDivisor)](./README/JavaScript/sumDivisor.js)
 
 ---
-### 공부를 하며 몰랐던 것
+## 공부를 하며 몰랐던 것
 ---
 1. for문에서 count하는 법....(2017/08/17)
 - [해결방안 count문을 실제로 만들어서 확인해봄...](./README/JavaScript/count.js)
