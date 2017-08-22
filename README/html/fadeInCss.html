@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+  <style>
+    * {
+      text-align: center; 
+    }
+    .boX, .Show, .Hide {
+      width: 200px;
+      height: 200px;
+      margin: 50px auto;
+    }
+    .Show {
+      transition: all 5s;
+      background-color: red;
+    }
+    .Hide{
+      transition: all 5s;
+    }
+    .btn1, .btn2{
+      width: 60px;
+      height: 20px;
+      background-color: gray;
+      margin: 10px;
+    }
+  </style>
+</head>
+<body>
+  <h1>fade-in, fade-out effect with css & js</h1>
+  <div class="btn">
+    <input type="button" value="fade in" class="btn1">
+    <input type="button" value="fade out" class="btn2">
+  </div>
+  <div class="boX"></div>
+  <script>
+    (function () {
+      const btn1 = document.querySelector('.btn1');
+      const btn2 = document.querySelector('.btn2');
+      const boX = document.querySelector('.boX');
+
+      btn1.addEventListener('click',()=>{
+        boX.setAttribute('class', 'Show');
+      })
+
+      btn2.addEventListener('click',()=>{
+        boX.setAttribute('class', 'Hide');
+      })
+    })();
+  </script>
+</body>
+</html>
