@@ -33,7 +33,8 @@ Today I Learned
 ---
 ## ECMAScript6
 ---
-1. [let,const ~ Class(2017/08/21)](./README/0821.md)
+1. [let,const ~ Class (2017/08/21)](./README/0821.md)
+2. [Class ~ Iteration protocol & for-of() (2017/08/22)](./README/0822.md)
 
 ---
 ## Bootstrap
@@ -102,6 +103,9 @@ Today I Learned
 - [배열의 최대/최소값 구하기(getMaxValue,getMinValue)](./README/JavaScript/getMaxValue.js)
 - [약수의 합(sumDivisor)](./README/JavaScript/sumDivisor.js)
 - [DOM](./README/html/DOMHtml.html)
+### 2017/08/22
+- [DOM(CSS+JS)(Fade-in, FadeOut)](./README/html/fadeinCss.html)
+- [DOM(jQuery)(Fade-in, FadeOut)](./README/html/fadeinjQuery.html)
 
 ---
 ## 공부를 하며 몰랐던 것
