@@ -72,40 +72,46 @@ Today I Learned
 - [Grid Example](./README/HomeWork/0727.html)
 ### Javscript
 ### 2017/07/31
-- [짝수(evenNum)](./README/JavaScript/evenNum.js)
+- [짝수(evenNum)](./README/JavaScript/0731/evenNum.js)
 - [짝수번째 숫자를 문자열로 뽑기(evenNumString)](./README/JavaScript/evenNumString.js)
-- [while문을 사용한 짝수뽑기(evenNumWhile)](./README/JavaScript/evenNumWhile.js)
-- [홀수 뽑기(oddNum)](./README/JavaScript/oddNum.js)
-- [짝수 뽑기(evenNum)](./README/JavaScript/evenNum.js)
-- [직삼각형만들기(triangle)](./README/JavaScript/triangle.js)
-- [트리만들기(tree)](./README/JavaScript/tree.js)
+- [while문을 사용한 짝수뽑기(evenNumWhile)](./README/JavaScript/0731/evenNumWhile.js)
+- [홀수 뽑기(oddNum)](./README/JavaScript/0731/oddNum.js)
+- [while문을 사용한 홀수 뽑기(oddNumWile)](./README/JavaScript/0731/oddNumWhile.js)
+- [짝수 뽑기(evenNum)](./README/JavaScript/0731/evenNum.js)
+- [직삼각형만들기(triangle)](./README/JavaScript/0731/triangle.js)
+- [트리만들기(tree)](./README/JavaScript/0731/tree.js)
 ### 2017/08/09
-- [JavaScript(string)](./README/JavaScript/string.js)
-- [JavaScript(day)](./README/JavaScript/day.js)
+- [JavaScript(string)](./README/JavaScript/0809/string.js)
+- [JavaScript(day)](./README/JavaScript/0809/day.js)
 ### 2017/08/14
-- [문자 체크하기(checkPalindrom)](./README/JavaScript/checkPalindrom.js)
+- [문자 체크하기(checkPalindrom)](./README/JavaScript/0814/checkPalindrom.js)
 ### 2017/08/15
-- [최단 거리 1차원 점의 쌍 구하기(DAUM)](./README/JavaScript/daum.js)
+- [최단 거리 1차원 점의 쌍 구하기(DAUM)](./README/JavaScript/0815/daum.js)
 ### 2017/08/16
-- [짝수와 홀수(EvenOrOdd)](./README/JavaScript/EvenOrOdd.js)
-- [1 ~ 10,000의 숫자 중 8이 등장하는 횟수 구하기(searchEight)](./README/JavaScript/searchEight.js)
+- [짝수와 홀수(EvenOrOdd)](./README/JavaScript/0816/EvenOrOdd.js)
+- [1 ~ 10,000의 숫자 중 8이 등장하는 횟수 구하기(searchEight)](./README/JavaScript/0816/searchEight.js)
 - [Event & jQuery](./README/html/eventMouse.html)
 ### 2017/08/17
-- [문자열 다루기(alphaString)](./README/JavaScript/alphaString.js)
+- [문자열 다루기(alphaString)](./README/JavaScript/0817/alphaString.js)
 ### 2017/08/18
-- [문자열을 숫자로 바꾸기(strToInt)](./README/JavaScript/strToInt.js)
+- [문자열을 숫자로 바꾸기(strToInt)](./README/JavaScript/0818/strToInt.js)
 ### 2017/08/20
-- [수박출력하기(waterMelon)](./README/JavaScript/waterMelon.js)
-- [핸드폰번호 가리기(hideNumbers)](./README/JavaScript/hideNumbers.js)
-- [정수제곱근 판별하기(nextSqaure)](./README/JavaScript/nextSqaure.js)
-- [이상한 문자만들기(toWeirdCase)](./README/JavaScript/toWeirdCase.js)
+- [수박출력하기(waterMelon)](./README/JavaScript/0820/waterMelon.js)
+- [핸드폰번호 가리기(hideNumbers)](./README/JavaScript/0820/hideNumbers.js)
+- [정수제곱근 판별하기(nextSqaure)](./README/JavaScript/0820/nextSqaure.js)
+- [이상한 문자만들기(toWeirdCase)](./README/JavaScript/0820/toWeirdCase.js)
 ### 2017/08/21
-- [배열의 최대/최소값 구하기(getMaxValue,getMinValue)](./README/JavaScript/getMaxValue.js)
-- [약수의 합(sumDivisor)](./README/JavaScript/sumDivisor.js)
+- [배열의 최대/최소값 구하기(getMaxValue,getMinValue)](./README/JavaScript/0821/getMaxValue.js)
+- [약수의 합(sumDivisor)](./README/JavaScript/0821/sumDivisor.js)
 - [DOM](./README/html/DOMHtml.html)
 ### 2017/08/22
 - [DOM(CSS+JS)(Fade-in, FadeOut)](./README/html/fadeinCss.html)
 - [DOM(jQuery)(Fade-in, FadeOut)](./README/html/fadeinjQuery.html)
+- [소수 찾기(numberOfPrime)](./README/JavaScript/0822/numberOfPrime.js)
+- [피보나치 수(fibonacci)](./README/JavaScript/0822/fibonacci.js)
+- [소수 찾기(numberOfPrime)](./README/JavaScript/0822/numberOfPrime.js)
+- [소수 찾기(numberOfPrime)](./README/JavaScript/0822/numberOfPrime.js)
+
 
 ---
 ## 공부를 하며 몰랐던 것
@@ -115,3 +121,6 @@ Today I Learned
 
 2. isNaN() 사용법을 잘 몰랐다.(2017/08/17)
 - 문제에서 문자열을 숫자열로 바꿨을 때 NaN이라는 문제가 발생하는데 이때 isNaN()을 사용해주면 해결이 가능하다.
+
+3. 이중 for문 이해...(2017/08/22)
+- 소수찾기 문제에서 이중for문을 사용중 count의 위치에 따라 바끼는 것에 대해 이해를 하지 못하였다. 해결방안으로는 직접 또 다른 [2중 for문 count](./README/JavaScript/countFor.js)를 만들어 확인.
