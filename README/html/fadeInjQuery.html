@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>jQuery</title>
+  <style>
+    * {
+      text-align: center; 
+    }
+    .boX{
+      width: 200px;
+      height: 200px;
+      margin: 50px auto;
+      background-color: red;
+      display: none;
+    }
+    .btn1, .btn2{
+      width: 60px;
+      height: 20px;
+      background-color: gray;
+      margin: 10px;
+    }
+  </style>
+</head>
+<body>
+  <h1>fade-in, fade-out effect with css & js</h1>
+  <div class="btn">
+    <input type="button" value="fade in" class="btn1">
+    <input type="button" value="fade out" class="btn2">
+  </div>
+  <div class="boX"></div>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <script>
+    $(function () {
+      $('.btn1').click(function () {
+        $('.boX').fadeIn(2000);
+      });
+      $('.btn2').click(function () {
+        $('.boX').fadeOut(2000);
+      });
+    });
+  </script>
+</body>
+</html>
