@@ -109,8 +109,8 @@ Today I Learned
 - [DOM(jQuery)(Fade-in, FadeOut)](./README/html/fadeinjQuery.html)
 - [소수 찾기(numberOfPrime)](./README/JavaScript/0822/numberOfPrime.js)
 - [피보나치 수(fibonacci)](./README/JavaScript/0822/fibonacci.js)
-- [소수 찾기(numberOfPrime)](./README/JavaScript/0822/numberOfPrime.js)
-- [소수 찾기(numberOfPrime)](./README/JavaScript/0822/numberOfPrime.js)
+- [두 정수 사이의 합(adder)](./README/JavaScript/0822/adder.js)
+- [하샤드 수(isHarshed)](./README/JavaScript/0822/isHarshed.js)
 
 
 ---
