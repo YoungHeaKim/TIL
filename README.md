@@ -111,6 +111,12 @@ Today I Learned
 - [피보나치 수(fibonacci)](./README/JavaScript/0822/fibonacci.js)
 - [두 정수 사이의 합(adder)](./README/JavaScript/0822/adder.js)
 - [하샤드 수(isHarshed)](./README/JavaScript/0822/isHarshed.js)
+### 2017/08/23
+- [배열에서 특정 값만을 구하기(getArray)](./README/JavaScript/0823/getArray.js)
+- [배열의 인접한 요소곱 중 가장 큰 값 구하기(adjacentElementsProduct)](./README/JavaScript/0823/adjacentElements.js)
+- [DOM연습(HTML file)](./README/html/bookList.html)
+- [DOM연습(js file)](./README/JavaScript/0823/adjacentElements.js)
+
 
 
 ---
