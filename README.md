@@ -117,7 +117,11 @@ Today I Learned
 - [DOM연습(HTML file)](./README/html/bookList.html)
 - [DOM연습(js file)](./README/JavaScript/0823/adjacentElements.js)
 
+- - -
 
+# Node.js
+---
+1. [Promise(2017/08/28)](./README/0828.md)
 
 ---
 ## 공부를 하며 몰랐던 것
@@ -130,3 +134,6 @@ Today I Learned
 
 3. 이중 for문 이해...(2017/08/22)
 - 소수찾기 문제에서 이중for문을 사용중 count의 위치에 따라 바끼는 것에 대해 이해를 하지 못하였다. 해결방안으로는 직접 또 다른 [2중 for문 count](./README/JavaScript/countFor.js)를 만들어 확인.
+
+4. DOM을 사용하여 HTML파일에 연결하는 법...(2017/08/23)
+- DOM문제를 풀며 이해가 안되는 부분이 많아서 혼자서 힘들었는데 아직 DOM을 사용하지 못하여서 DOM을 처음부터 메소드와 같은 것들의 이해를 하고 그 다음에 문제를 풀어나가니 훨씬 수월하였다.
