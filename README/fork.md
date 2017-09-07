@@ -10,7 +10,7 @@ git clone (자신의 github에서 clone 주소)
 cd (해당폴더)
 ```
 
-4. 터미널에서 orgin으로 github와 연결을 해준다.
+4. 터미널에서 orgin으로 github와 연결을 해준다.(생략가능)
 ```
 git remote add origin (자신의 github에서 clone 주소)
 ```
@@ -27,7 +27,7 @@ origin	https://github.com/YoungHeaKim/to-do-list.git (push)
 
 6. fork를 뜬 사람의 주소로 들어가서 clone 주소 복사하여 연결 시켜준다.
 ```
-git remote add upstream https://github.com/seultt/to-do-list.git
+git remote add (자유롭게 origin과 다른이름을 생성 ex: upstream 등등)  (fork를 해 온 사람의 주소로 가서 클론주소)
 ```
 
 7. 잘 연결이 되었는지 확인
