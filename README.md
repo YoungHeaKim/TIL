@@ -150,3 +150,6 @@ Today I Learned
 
 6. Form 태그에서 버튼과 submit의 차이...(2017/08/31)
 - Form 태그안에서는 submit을 사용해야 버튼을 눌렀을 때 서버로 요청을 보낸다. 이때 버튼을 누르면 아무일도 발생하지 않는다.  
+
+7. gitHub fork를 한 뒤 branch 생성과 연결하는 법..(2017/09/07)
+- [해결방안](./README/fork.md)
