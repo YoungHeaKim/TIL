@@ -58,6 +58,7 @@ Today I Learned
 3. [Network Computing (2017/08/11)](./README/0811.md)
 4. [REST API, Socket(TCP, websocket)(2017/08/18)](./README/0818.md)
 5. [Data Structure, gulp(2017/09/01)](./README/0901.md)
+6. [Data Structure, gulp2(2017/09/08)](./README/0908.md)
 
 ---
 ## Practice & Homework
