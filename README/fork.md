@@ -69,3 +69,21 @@ git remote add (자유롭게 origin과 다른이름을 생성 ex: upstream 등�
 ```
 git remote -v
 ```
+
+- - -
+pull을 할 경우
+- - - 
+
+자신의 repository에 다른사람이 가져간 사람은 그냥 pull이 가능하다.
+```
+git pull
+```
+
+자신이 fork를 한 경우에는 
+```
+git pull (위에서 지정해준 이름) (그 지정해준 이름의 브런치 이름)
+```
+ex) 만약 위에서 (위에서 지정해준 이름)이 upstream이고 (그 지정해준 이름의 브런치 이름)이 her인 경우
+```
+git pull upstream her
+```
