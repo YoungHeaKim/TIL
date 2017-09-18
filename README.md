@@ -133,6 +133,7 @@ Today I Learned
 8. [MySQL(2017/09/12)](./README/0912.md)
 9. [Knex(2017/09/14)](./README/0914.md)
 10. [디버깅, 실습(2017/09/15)](./README/0915.md)
+11. [CSRF, Socket.io(2017/09/18)](./README/0918.md)
 
 ---
 ## 공부를 하며 몰랐던 것
