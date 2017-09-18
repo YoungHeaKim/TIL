@@ -13,5 +13,8 @@ function EvenOrOdd(num) {
 // function EvenOrOdd(num) {
 //     return (num % 2  == 0) ? "Even" : "Odd"; // num이 짝수인지 홀수인지 확인하는 조건을 써주고 삼항연산문을 사용하여 값을 정한후 값을 출력한다.
 // }  
-console.log(EvenOrOdd(3));
+console.log(EvenOrOdd(0));  // even
+console.log(EvenOrOdd(2));  // even
+console.log(EvenOrOdd(3));  // odd
+console.log(EvenOrOdd(15)); // odd
 // 단, if문을 사용한 답과 3항 연산자를 사용하는 답 두가지를 제시하여야 한다.
