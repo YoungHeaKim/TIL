@@ -30,4 +30,6 @@ function searchEight(num) {
   }
   return count;
 }
-console.log(searchEight(10000));
+console.log(searchEight(10000));  // 4000
+console.log(searchEight(10088));  // 4018
+console.log(searchEight(50000));  // 20000
