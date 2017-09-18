@@ -7,7 +7,7 @@ function numPY(s) {
   return (s.match(/p/gi) ? s.match(/p/gi).length : 0) === (s.match(/y/gi) ? s.match(/y/gi).length : 0); 
 }
 
-// for문
+// //for문
 // function numPY(s) {
 //   var cntP = 0;
 //   var cntY = 0;
@@ -15,7 +15,8 @@ function numPY(s) {
   
 //   var lowerCaseStr = s.toLowerCase();
 
-//   for(var i=0; i < lowerCaseStr.length; i++){ // 자바스크립트는 컴파일 시점에 에러 검출이 안된다. 실행이 될때 에러가 검출이 된다.  
+//   for(var i=0; i < lowerCaseStr.length; i++){ 
+//     // 자바스크립트는 컴파일 시점에 에러 검출이 안된다. 실행이 될때 에러가 검출이 된다.  
 //     if(lowerCaseStr[i] === 'p') cntP++; 
 //     if(lowerCaseStr[i] === 'y') cntY++; 
 //   }
