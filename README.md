@@ -135,7 +135,8 @@ Today I Learned
 10. [디버깅, 실습(2017/09/15)](./README/0915.md)
 11. [CSRF, Socket.io(2017/09/18)](./README/0918.md)
 12. [Passport, OAuth(2017/09/19)](./README/0919.md)
-12. [File-type, Redis, Kue, AWS, Sharp, Express.Router, multer, JSDoc(2017/09/21)](./README/0921.md)
+13. [File-type, Redis, Kue, AWS, Sharp, Express.Router, multer, JSDoc(2017/09/21)](./README/0921.md)
+14. [(2017/09/22)](./README/0922.md)
 
 ---
 ## 공부를 하며 몰랐던 것
