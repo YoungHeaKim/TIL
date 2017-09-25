@@ -136,7 +136,7 @@ Today I Learned
 11. [CSRF, Socket.io(2017/09/18)](./README/0918.md)
 12. [Passport, OAuth(2017/09/19)](./README/0919.md)
 13. [File-type, Redis, Kue, AWS, Sharp, Express.Router, multer, JSDoc(2017/09/21)](./README/0921.md)
-14. [(2017/09/22)](./README/0922.md)
+14. [REST API(2017/09/25)](./README/0925.md)
 
 ---
 ## 공부를 하며 몰랐던 것
