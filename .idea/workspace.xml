@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d34b0b97-4d18-463c-9e5f-ec597f7db744" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README/HTML&amp;CSS.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/HTML&amp;CSS.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README/JavaScript.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/JavaScript.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README/Nodejs.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/Nodejs.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README/NodeJSWithMongo.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/NodeJSWithMongo.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README/algorithm.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/algorithm.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README/computer.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/computer.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,67 +16,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="algorithm.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README/algorithm.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="4" selection-start-line="4" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NodeJSWithMongo.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README/NodeJSWithMongo.md">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="Nodejs.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README/Nodejs.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="computer.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README/computer.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HTML&amp;CSS.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README/HTML&amp;CSS.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JavaScript.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README/JavaScript.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -90,12 +26,13 @@
       <list>
         <option value="$PROJECT_DIR$/README/academy/0822.md" />
         <option value="$PROJECT_DIR$/README/academy/0821.md" />
-        <option value="$PROJECT_DIR$/README/algorithm.md" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/README/Nodejs.md" />
         <option value="$PROJECT_DIR$/README/HTML&amp;CSS.md" />
         <option value="$PROJECT_DIR$/README/JavaScript.md" />
         <option value="$PROJECT_DIR$/README/computer.md" />
+        <option value="$PROJECT_DIR$/README/algorithm.md" />
+        <option value="$PROJECT_DIR$/README/NodeJSWithMongo.md" />
       </list>
     </option>
   </component>
@@ -179,16 +116,15 @@
       <updated>1532937127865</updated>
       <workItem from="1532937129110" duration="967000" />
       <workItem from="1532938930539" duration="1793000" />
-      <workItem from="1532940739662" duration="1451000" />
+      <workItem from="1532940739662" duration="1610000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4211000" />
+    <option name="totallyTimeSpent" value="4370000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1279" y="23" width="1254" height="1337" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16382806" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -277,10 +213,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/README/computer.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        <state relative-caret-position="189">
+          <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -291,16 +227,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README/NodeJSWithMongo.md">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README/algorithm.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" selection-start-line="4" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README/HTML&amp;CSS.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="63">
@@ -308,17 +234,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README/JavaScript.md">
+    <entry file="file://$PROJECT_DIR$/README/NodeJSWithMongo.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README/computer.md">
+    <entry file="file://$PROJECT_DIR$/README/JavaScript.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+        <state>
+          <caret selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README/algorithm.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="31" selection-start-column="31" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
