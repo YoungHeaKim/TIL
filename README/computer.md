@@ -1,6 +1,7 @@
 # Computer Science and Engineering 정리
 - - -
 | 링크 | 날짜 |
+|---|---|
 | [Computer](./README/academy/0721.md) | 2017/07/21 |
 | [Software Engineering](./README/academy/0804.md) | 2017/08/04 |
 | [Network Computing](./README/academy/0811.md) | 2017/08/11 |

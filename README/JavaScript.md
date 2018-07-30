@@ -1,6 +1,7 @@
 # JavaScript 정리
 - - -
 | 종류 | 링크 | 날짜 |
+|---|---|---|
 | JavaScript | [Coding ~ Data type & Variable](./academy/0728.md) | 2017/07/28 |
 | JavaScript | [Data type & Variable ~ Object](./academy/0731.md) | 2017/07/31 |
 | JavaScript | [Object ~ Prototype](./academy/0801.md) | 2017/08/01 |

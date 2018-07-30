@@ -2,59 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d34b0b97-4d18-463c-9e5f-ec597f7db744" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README/HTML&amp;CSS.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README/JavaScript.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README/NodeJSWithMongo.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README/Nodejs.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README/algorithm.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README/computer.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README/0717.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0717.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README/0718.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0718.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README/0719.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0719.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README/0720.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0720.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README/0721.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0721.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README/0724.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0724.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README/0725.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0725.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README/0727.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0727.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README/0728.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0728.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README/0731.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0731.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README/0801.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0801.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README/0803.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0803.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README/0804.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0804.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README/0807JS.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0807JS.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README/0807sass.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0807sass.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README/0808.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0808.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README/0809.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0809.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README/0811.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0811.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README/0814.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0814.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README/0816JS.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0816JS.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README/0816jQuery.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0816jQuery.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README/0818.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0818.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README/0821.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0821.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README/0822.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0822.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README/0828.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0828.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README/0829.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0829.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README/0830.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0830.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README/0901.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0901.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README/0904.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0904.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README/0905.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0905.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README/0906.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0906.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README/0907.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0907.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README/0908.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0908.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README/0911.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0911.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README/0912.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0912.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README/0914.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0914.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README/0915.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0915.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README/0918.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0918.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README/0919.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0919.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README/0921.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0921.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README/0925.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0925.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README/0927.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0927.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README/0928.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0928.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README/JSobject.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/JSobject.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README/fork.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/fork.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README/HTML&amp;CSS.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/HTML&amp;CSS.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README/JavaScript.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/JavaScript.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README/Nodejs.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/Nodejs.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README/algorithm.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/algorithm.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README/computer.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/computer.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -71,17 +24,17 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="13" column="41" lean-forward="true" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+            <state relative-caret-position="147">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="algorithm.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="algorithm.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README/algorithm.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="861">
-              <caret line="41" column="119" selection-start-line="41" selection-start-column="119" selection-end-line="41" selection-end-column="119" />
+            <state relative-caret-position="84">
+              <caret line="4" selection-start-line="4" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -94,17 +47,17 @@
       <file leaf-file-name="Nodejs.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README/Nodejs.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="2" selection-end-column="11" />
+            <state relative-caret-position="63">
+              <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="computer.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="computer.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README/computer.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="8" column="61" selection-start-line="8" selection-start-column="61" selection-end-line="8" selection-end-column="61" />
+            <state relative-caret-position="63">
+              <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -112,8 +65,8 @@
       <file leaf-file-name="HTML&amp;CSS.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README/HTML&amp;CSS.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="2" selection-end-column="16" />
+            <state relative-caret-position="63">
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -121,8 +74,8 @@
       <file leaf-file-name="JavaScript.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README/JavaScript.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="14" column="12" lean-forward="true" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+            <state relative-caret-position="63">
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -137,12 +90,12 @@
       <list>
         <option value="$PROJECT_DIR$/README/academy/0822.md" />
         <option value="$PROJECT_DIR$/README/academy/0821.md" />
-        <option value="$PROJECT_DIR$/README/JavaScript.md" />
-        <option value="$PROJECT_DIR$/README/HTML&amp;CSS.md" />
-        <option value="$PROJECT_DIR$/README/computer.md" />
-        <option value="$PROJECT_DIR$/README/Nodejs.md" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/README/algorithm.md" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/README/Nodejs.md" />
+        <option value="$PROJECT_DIR$/README/HTML&amp;CSS.md" />
+        <option value="$PROJECT_DIR$/README/JavaScript.md" />
+        <option value="$PROJECT_DIR$/README/computer.md" />
       </list>
     </option>
   </component>
@@ -226,12 +179,12 @@
       <updated>1532937127865</updated>
       <workItem from="1532937129110" duration="967000" />
       <workItem from="1532938930539" duration="1793000" />
-      <workItem from="1532940739662" duration="1252000" />
+      <workItem from="1532940739662" duration="1451000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4012000" />
+    <option name="totallyTimeSpent" value="4211000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1279" y="23" width="1254" height="1337" extended-state="0" />
@@ -324,48 +277,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README/computer.md">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="61" selection-start-line="8" selection-start-column="61" selection-end-line="8" selection-end-column="61" />
+        <state relative-caret-position="147">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README/HTML&amp;CSS.md">
+    <entry file="file://$PROJECT_DIR$/README/Nodejs.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="2" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README/JavaScript.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="12" lean-forward="true" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+        <state relative-caret-position="63">
+          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README/NodeJSWithMongo.md">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/README/Nodejs.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="2" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="41" lean-forward="true" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README/algorithm.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="861">
-          <caret line="41" column="119" selection-start-line="41" selection-start-column="119" selection-end-line="41" selection-end-column="119" />
+        <state relative-caret-position="84">
+          <caret line="4" selection-start-line="4" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README/HTML&amp;CSS.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README/JavaScript.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README/computer.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
         </state>
       </provider>
     </entry>
