@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d34b0b97-4d18-463c-9e5f-ec597f7db744" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README/HTML&amp;CSS.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README/JavaScript.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README/NodeJSWithMongo.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README/Nodejs.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README/algorithm.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README/computer.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README/0717.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0717.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README/0718.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0718.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README/0719.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0719.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README/0720.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0720.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README/0721.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0721.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README/0724.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0724.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README/0725.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0725.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README/0727.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0727.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README/0728.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0728.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README/0731.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0731.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README/0801.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0801.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README/0803.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0803.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README/0804.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0804.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README/0807JS.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0807JS.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README/0807sass.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0807sass.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README/0808.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0808.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README/0809.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0809.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README/0811.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0811.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README/0814.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0814.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README/0816JS.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0816JS.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README/0816jQuery.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0816jQuery.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README/0818.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0818.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README/0821.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0821.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README/0822.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0822.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README/0828.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0828.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README/0829.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0829.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README/0830.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0830.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README/0901.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0901.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README/0904.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0904.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README/0905.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0905.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README/0906.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0906.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README/0907.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0907.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README/0908.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0908.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README/0911.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0911.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README/0912.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0912.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README/0914.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0914.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README/0915.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0915.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README/0918.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0918.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README/0919.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0919.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README/0921.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0921.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README/0925.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0925.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README/0927.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0927.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README/0928.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/0928.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README/JSobject.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/JSobject.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README/fork.md" beforeDir="false" afterPath="$PROJECT_DIR$/README/academy/fork.md" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="13" column="41" lean-forward="true" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="algorithm.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README/algorithm.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="861">
+              <caret line="41" column="119" selection-start-line="41" selection-start-column="119" selection-end-line="41" selection-end-column="119" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NodeJSWithMongo.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README/NodeJSWithMongo.md">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="Nodejs.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README/Nodejs.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="2" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="computer.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README/computer.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="8" column="61" selection-start-line="8" selection-start-column="61" selection-end-line="8" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HTML&amp;CSS.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README/HTML&amp;CSS.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="2" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JavaScript.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README/JavaScript.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="14" column="12" lean-forward="true" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/README/academy/0822.md" />
+        <option value="$PROJECT_DIR$/README/academy/0821.md" />
+        <option value="$PROJECT_DIR$/README/JavaScript.md" />
+        <option value="$PROJECT_DIR$/README/HTML&amp;CSS.md" />
+        <option value="$PROJECT_DIR$/README/computer.md" />
+        <option value="$PROJECT_DIR$/README/Nodejs.md" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/README/algorithm.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1279" />
+    <option name="y" value="23" />
+    <option name="width" value="1254" />
+    <option name="height" value="1337" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TIL" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TIL" type="462c0819:PsiDirectoryNode" />
+              <item name="README" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TIL" type="462c0819:PsiDirectoryNode" />
+              <item name="README" type="462c0819:PsiDirectoryNode" />
+              <item name="HomeWork" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/README" />
+      <recent name="$PROJECT_DIR$/README/학원" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d34b0b97-4d18-463c-9e5f-ec597f7db744" name="Default" comment="" />
+      <created>1532937127865</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532937127865</updated>
+      <workItem from="1532937129110" duration="967000" />
+      <workItem from="1532938930539" duration="1793000" />
+      <workItem from="1532940739662" duration="1252000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4012000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1279" y="23" width="1254" height="1337" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16382806" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README/Nodejs.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README/computer.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="61" selection-start-line="8" selection-start-column="61" selection-end-line="8" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README/HTML&amp;CSS.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README/JavaScript.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="12" lean-forward="true" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2940">
+          <caret line="138" column="49" selection-start-line="138" selection-start-column="49" selection-end-line="138" selection-end-column="49" />
+          <caret line="139" column="59" selection-start-line="139" selection-start-column="59" selection-end-line="139" selection-end-column="59" />
+          <caret line="140" column="42" selection-start-line="140" selection-start-column="42" selection-end-line="140" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README/academy/0822.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="235" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README/academy/0821.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1048">
+          <caret line="740" column="35" lean-forward="true" selection-start-line="740" selection-start-column="35" selection-end-line="740" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README/computer.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="61" selection-start-line="8" selection-start-column="61" selection-end-line="8" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README/HTML&amp;CSS.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README/JavaScript.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="12" lean-forward="true" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README/NodeJSWithMongo.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README/Nodejs.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="41" lean-forward="true" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README/algorithm.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="861">
+          <caret line="41" column="119" selection-start-line="41" selection-start-column="119" selection-end-line="41" selection-end-column="119" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

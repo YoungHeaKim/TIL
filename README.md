@@ -3,142 +3,16 @@
 Today I Learned
 
 ---
-## HTML
----
-1. [HTML (Element ~ Meta tag)(2017/07/17)](./README/0717.md)  
-2. [HTML (BodyTag ~ Struture)(2017/07/18)](./README/0718.md)
-
----
-## CSS
---- 
-1. [Selector (2017/07/19)](./README/0719.md)
-2. [Units ~ Font (2017/07/20)](./README/0720.md)
-3. [Position ~ Effect (2017/07/24)](./README/0724.md)
-4. [Web font ~ Web Design (2017/07/25)](./README/0725.md)
-
----
-## JavaScript
----
-1. [Coding ~ Data type & Variable (2017/07/28)](./README/0728.md)
-2. [Data type & Variable ~ Object (2017/07/31)](./README/0731.md)
-3. [Object ~ Prototype (2017/08/01)](./README/0801.md)
-4. [Objeect (2017/08/03)](./README/JSobject.md)
-5. [Prototype ~ This (2017/08/03)](./README/0803.md)
-6. [Execution Context ~ Closure (2017/08/07)](./README/0807JS.md)
-7. [Object-Oriented Programming ~ Math (2017/08/08)](./README/0808.md)
-8. [Date ~ Array (2017/08/09)](./README/0809.md)
-9. [DOM ~ Event (2017/08/14)](./README/0814.md)
-10. [Event (2017/08/16)](./README/0816JS.md)
-
----
-## ECMAScript6
----
-1. [let,const ~ Class (2017/08/21)](./README/0821.md)
-2. [Class ~ Iteration protocol & for-of() (2017/08/22)](./README/0822.md)
-
----
-## Bootstrap
----
-[Bootstrap (2017/07/27)](./README/0727.md)
-
-## Sass
----
-[Sass (2017/08/07)](./README/0807sass.md)
-
----
-## jQuery
----
-1. [jQuery (Basic ~ Ajax & JSON)(2017/08/16)](./README/0816jQuery.md)
-
----
-## Computer Science and Engineering
----
-1. [Computer (2017/07/21)](./README/0721.md)
-2. [Software Engineering (2017/08/04)](./README/0804.md)
-3. [Network Computing (2017/08/11)](./README/0811.md)
-4. [REST API, Socket(TCP, websocket)(2017/08/18)](./README/0818.md)
-5. [Data Structure, gulp(2017/09/01)](./README/0901.md)
-6. [Data Structure, gulp2(2017/09/08)](./README/0908.md)
-
----
-## Practice & Homework
----
-### HTML & CSS
-### 2017/07/25
-- [Make a HomePage](./README/HomeWork/0725.html)
-### 2017/07/26
-- [Practice (Make a Hompage)](./README/First/0726.html)
-### 2017/07/27
-- [Noneresponsive](./README/HomeWork/Noneresposive.html)
-- [Responsive](./README/HomeWork/Responsive.html)
-- [Grid Example](./README/HomeWork/0727.html)
-### Javscript
-### 2017/07/31
-- [짝수(evenNum)](./README/JavaScript/0731/evenNum.js)
-- [짝수번째 숫자를 문자열로 뽑기(evenNumString)](./README/JavaScript/evenNumString.js)
-- [while문을 사용한 짝수뽑기(evenNumWhile)](./README/JavaScript/0731/evenNumWhile.js)
-- [홀수 뽑기(oddNum)](./README/JavaScript/0731/oddNum.js)
-- [while문을 사용한 홀수 뽑기(oddNumWile)](./README/JavaScript/0731/oddNumWhile.js)
-- [짝수 뽑기(evenNum)](./README/JavaScript/0731/evenNum.js)
-- [직삼각형만들기(triangle)](./README/JavaScript/0731/triangle.js)
-- [트리만들기(tree)](./README/JavaScript/0731/tree.js)
-### 2017/08/09
-- [JavaScript(string)](./README/JavaScript/0809/string.js)
-- [JavaScript(day)](./README/JavaScript/0809/day.js)
-### 2017/08/14
-- [문자 체크하기(checkPalindrom)](./README/JavaScript/0814/checkPalindrom.js)
-### 2017/08/15
-- [최단 거리 1차원 점의 쌍 구하기(DAUM)](./README/JavaScript/0815/daum.js)
-### 2017/08/16
-- [짝수와 홀수(EvenOrOdd)](./README/JavaScript/0816/EvenOrOdd.js)
-- [1 ~ 10,000의 숫자 중 8이 등장하는 횟수 구하기(searchEight)](./README/JavaScript/0816/searchEight.js)
-- [Event & jQuery](./README/html/eventMouse.html)
-### 2017/08/17
-- [문자열 다루기(alphaString)](./README/JavaScript/0817/alphaString.js)
-### 2017/08/18
-- [문자열을 숫자로 바꾸기(strToInt)](./README/JavaScript/0818/strToInt.js)
-### 2017/08/20
-- [수박출력하기(waterMelon)](./README/JavaScript/0820/waterMelon.js)
-- [핸드폰번호 가리기(hideNumbers)](./README/JavaScript/0820/hideNumbers.js)
-- [정수제곱근 판별하기(nextSqaure)](./README/JavaScript/0820/nextSqaure.js)
-- [이상한 문자만들기(toWeirdCase)](./README/JavaScript/0820/toWeirdCase.js)
-### 2017/08/21
-- [배열의 최대/최소값 구하기(getMaxValue,getMinValue)](./README/JavaScript/0821/getMaxValue.js)
-- [약수의 합(sumDivisor)](./README/JavaScript/0821/sumDivisor.js)
-- [DOM](./README/html/DOMHtml.html)
-### 2017/08/22
-- [DOM(CSS+JS)(Fade-in, FadeOut)](./README/html/fadeinCss.html)
-- [DOM(jQuery)(Fade-in, FadeOut)](./README/html/fadeinjQuery.html)
-- [소수 찾기(numberOfPrime)](./README/JavaScript/0822/numberOfPrime.js)
-- [피보나치 수(fibonacci)](./README/JavaScript/0822/fibonacci.js)
-- [두 정수 사이의 합(adder)](./README/JavaScript/0822/adder.js)
-- [하샤드 수(isHarshed)](./README/JavaScript/0822/isHarshed.js)
-### 2017/08/23
-- [배열에서 특정 값만을 구하기(getArray)](./README/JavaScript/0823/getArray.js)
-- [배열의 인접한 요소곱 중 가장 큰 값 구하기(adjacentElementsProduct)](./README/JavaScript/0823/adjacentElements.js)
-- [DOM연습(HTML file)](./README/html/bookList.html)
-- [DOM연습(js file)](./README/JavaScript/0823/adjacentElements.js)
-
-- - -
-
-# Node.js
----
-1. [Promise(2017/08/28)](./README/0828.md)
-2. [HTTP, Express, Template Language(2017/08/29)](./README/0829.md)
-3. [Web Form, 서비스 개발 실습(2017/08/30)](./README/0830.md)
-4. [Express Middlewarem, Cookie, Session(2017/09/04)](./README/0904.md)
-5. [Ajax, CORS, JWT, Fetch API(2017/09/05)](./README/0905.md)
-6. [HTTP Cache, GraphQL, Single-Page Application(2017/09/06)](./README/0906.md)
-7. [MySQL(2017/09/11)](./README/0911.md)
-8. [MySQL(2017/09/12)](./README/0912.md)
-9. [Knex(2017/09/14)](./README/0914.md)
-10. [디버깅, 실습(2017/09/15)](./README/0915.md)
-11. [CSRF, Socket.io(2017/09/18)](./README/0918.md)
-12. [Passport, OAuth(2017/09/19)](./README/0919.md)
-13. [File-type, Redis, Kue, AWS, Sharp, Express.Router, multer, JSDoc(2017/09/21)](./README/0921.md)
-14. [REST API, SPA(2017/09/25)](./README/0925.md)
-15. [PM2, Reverse Proxy, TDD(2017/09/27)](./README/0927.md)
-16. [Docker(2017/09/28)](./README/0928.md)
+| 종류 | 링크 | 날짜 |
+| HTML | [HTML & CSS](./README/HTML&CSS.md) | 2017/07/17 ~ 2017/07/25 |
+| JavaScript | [정리](./README/JavaScript.md) | 2017/07/28 ~ 2017/08/22 |
+| BootStrap | [Bootstrap](./README/academy/0727.md) | 2017/07/27 |
+| Sass | [Sass](./README/academy/0807sass.md) | 2017/08/07 |
+| jQuery | [jQuery (Basic ~ Ajax & JSON)](./README/academy/0816jQuery.md) | 2017/08/16 |
+| Computer Science and Engineering | [Computer](./README/computer.md) | 2017/07/21 ~ 2017/09/08 |
+| Node.js | [Node 정리](./README/Nodejs.md) | 2017/08/28 ~ 2017/09/28 |
+| algorithm | [algorithm](./README/algorithm.md) | 2017/07/25 ~ 2017/08/23 |
+| Node.js with Mongodb | [실무에서 쓰이는 것들](./README/NodeJSWithMongo.md) |  |
 
 ---
 ## 공부를 하며 몰랐던 것
@@ -163,4 +37,4 @@ Today I Learned
 - Form 태그안에서는 submit을 사용해야 버튼을 눌렀을 때 서버로 요청을 보낸다. 이때 버튼을 누르면 아무일도 발생하지 않는다.  
 
 7. gitHub fork를 한 뒤 branch 생성과 연결하는 법..(2017/09/07)
-- [해결방안](./README/fork.md)
+- [해결방안](./README/academy/fork.md)
