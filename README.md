@@ -14,7 +14,7 @@ Today I Learned
 | Computer Science and Engineering | [Computer](./README/computer.md) | 2017/07/21 ~ 2017/09/08 |
 | Node.js | [Node 정리](./README/Nodejs.md) | 2017/08/28 ~ 2017/09/28 |
 | algorithm | [algorithm](./README/algorithm.md) | 2017/07/25 ~ 2017/08/23 |
-| Node.js with Mongodb | [실무에서 쓰이는 것들](./README/NodeJSWithMongo.md) |  |
+| Node.js with Mongodb | [실무에서 쓰이는 것들](./README/NodeJSWithMongo.md) | 2018/07/31 ~ 진행중 |
 
 ---
 ## 공부를 하며 몰랐던 것
