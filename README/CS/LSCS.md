@@ -1,4 +1,4 @@
-# LocalStorage & Cookie & Session 차이
+# LocalStorage & Cookie & Session 차이 & JWT
 
 ## LocalStorage란?
 - - -
@@ -19,3 +19,10 @@
 - 서버에 저장한다.
 - 세션은 만료시간을 정할 수 있지만 브라우저가 종료되면 바로 삭제한다.
 - 윈도우 창을 닫을시 내용이 제거 된다. 일회성 로그인을 구현할때 사용한다.
+
+- - - 
+## JWT
+ - - -
+
+- JSON WEB TOKEN의 약자로 Secret key로 Access Token을 발급하여 클라이언트에 JWT를 발급하여 클라이언트로 보내는 API의 헤더에 포함하여 전달하고 JWT 서명을 체크하고 JWT에서 사용자 정보를 확인하여 로그인한다.
+- 클라이언트와 서버, 서비스와 서비스 사이 통신 시 권한 인가를 위해 사용하는 토큰이다.

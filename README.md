@@ -17,5 +17,9 @@ Today I Learned
   - [브라우저 동작 원리](./README/CS/browser.md)
   - [HTTP & HTTPS 차이와 HTTPS 발급 과정](./README/CS/http.md)
   - [RESTful API](./README/CS/RestFulApi.md)
-  - [LocalStorage & Cookie & Session](./README/CS/LSCS.md)
+  - [LocalStorage & Cookie & Session & JWT](./README/CS/LSCS.md)
+  - [호이스팅(Hoisting)](./README/CS/Hoisting.md)
+  - [SOLID 원칙 & Closure](./README/CS/SOLID.md)
+  - [JS 원시 타입 & Null과 Undefined 차이](./README/CS/jsType.md)
+  - [객체지향 & 함수 프로그래밍](./README/CS/progaming.md)
 </details>
