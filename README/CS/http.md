@@ -4,6 +4,8 @@
 - HTTP란?
 
   인터넷에서 데이터를 주고받을 수 있는 프로토콜 (평문 통신)
+  HyperText Transfer Protocol
+  Request와 Response 프로토콜로 클라이언트와 서버 통신을 이어준다.
 
 - HTTPS란?
 

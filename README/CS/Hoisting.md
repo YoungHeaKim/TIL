@@ -9,6 +9,20 @@
   - 실제로 코드가 끌어올려지는 건 아니며, 자바스크립트 Parser 내부적으로 끌어올려서 처리하는 것이다.
   - 실제 메모리에서는 변화가 없다.
 
+- `var`와 `let` 변수 선언에서도 차이가난다.
+  - `var`의 경우 변수선언을 밑에서 하고 위에서 변수 선언을 하면 변수를 가져올 수 있다.
+  - `let`의 경우 변수선언을 호출하는 곳보다 밑에서 선언하면 에러를 반환한다. 
+
+```js
+console.log(foo); 
+// undefined
+var foo;
+
+console.log(bar); 
+// Error: Uncaught ReferenceError: bar is not defined
+let bar;
+```
+
 ## 특징
 - var 변수 선언과 함수 선언문에서만 호이스팅이 일어난다.
 - let/const 변수 선언과 함수 표현식에서는 호이스팅이 발생하지 않는다.

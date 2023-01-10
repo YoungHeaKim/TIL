@@ -23,4 +23,6 @@ Today I Learned
   - [SOLID 원칙 & Closure](./README/CS/SOLID.md)
   - [JS 원시 타입 & Null과 Undefined 차이](./README/CS/jsType.md)
   - [객체지향 & 함수 프로그래밍](./README/CS/progaming.md)
+  - [Promise & Callback & async/await](./README/CS/promise.md)
+  - [var & let & const](./README/CS/var.md)
 </details>
