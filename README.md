@@ -25,4 +25,13 @@ Today I Learned
   - [객체지향 & 함수 프로그래밍](./README/CS/progaming.md)
   - [Promise & Callback & async/await](./README/CS/promise.md)
   - [var & let & const](./README/CS/var.md)
+  - [CSR VS SSR](./README/CS/csr.md)
+</details>
+
+
+<details>
+    <summary>Project 경험하면서 힘들었던 점과 해결 방안</summary>
+
+  - [GoldenSurfer(Node.js)](./README/project/goldenSurfer.md)
+  - [artiwork(React.js)](./README/project/artiwork.md)
 </details>
