@@ -26,6 +26,7 @@ Today I Learned
   - [Promise & Callback & async/await](./README/CS/promise.md)
   - [var & let & const](./README/CS/var.md)
   - [CSR VS SSR](./README/CS/csr.md)
+  - [husky & react-skeleton](./README/CS//husky.md)
 </details>
 
 
