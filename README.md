@@ -29,6 +29,13 @@ Today I Learned
   - [husky & react-skeleton](./README/CS//husky.md)
 </details>
 
+<details>
+  <summary>REACT</summary>
+
+   - [React Memorization](./README/react/memorization.md)
+   - [React Context API & Redux](./README/react/thirdParty.md)
+</details>
+
 
 <details>
     <summary>Project 경험하면서 힘들었던 점과 해결 방안</summary>
