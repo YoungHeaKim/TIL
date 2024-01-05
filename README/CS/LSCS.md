@@ -24,5 +24,5 @@
 ## JWT
  - - -
 
-- JSON WEB TOKEN의 약자로 Secret key로 Access Token을 발급하여 클라이언트에 JWT를 발급하여 클라이언트로 보내는 API의 헤더에 포함하여 전달하고 JWT 서명을 체크하고 JWT에서 사용자 정보를 확인하여 로그인한다.
+- JSON WEB TOKEN의 약자로 Secret key로 Access Token을 발급하여 클라이언트에 JWT를 발급하여 서버로 보내는 API의 헤더에 포함하여 전달하고 JWT 서명을 체크하고 JWT에서 사용자 정보를 확인하여 로그인한다.
 - 클라이언트와 서버, 서비스와 서비스 사이 통신 시 권한 인가를 위해 사용하는 토큰이다.
